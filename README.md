@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![Imgur Image](https://imgur.com/a/At5qHkk.gif)
+![](https://github.com/benjamusni/web102_prework/blob/main/myWebsitePrework.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with OBS and ezgif.com
