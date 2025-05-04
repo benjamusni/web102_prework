@@ -36,6 +36,8 @@ GIF created with OBS and ezgif.com
 
 Describe any challenges encountered while building the app.
 
+Some issues I ran into was the problems requiring DOM elements, I am not too sharp on it, but have gotten better after the prework!
+
 ## License
 
     Copyright 2025 Benjamin Musni
